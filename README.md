@@ -1,7 +1,7 @@
 # Nonprofit Donor Analytics — Manager Dashboards
 
 ## Overview
-This project builds on the Week 1 nonprofit data cleaning work, combining member, donation, and regional data into a single connected model, then delivers three role-specific Power BI dashboards — for a Product Manager, a Customer Relationship Manager, and a Regional Manager — each highlighting the metrics most relevant to that role.
+This project builds on the nonprofit data cleaning work, combining member, donation, and regional data into a single connected model, then delivers three role-specific Power BI dashboards — for a Product Manager, a Customer Relationship Manager, and a Regional Manager — each highlighting the metrics most relevant to that role.
 
 ## Data Preparation
 - Corrected and finalized the data cleaning from the prior week (deduplication, column splitting, formatting)
